@@ -18,7 +18,7 @@ public class HelloWorld
             
 
             Console.WriteLine("Cadastro de usuários:");
-            Console.WriteLine("1- Cadastrar\n2- Buscar");
+            Console.WriteLine("1- Cadastrar\n2- Buscar\n3- Deletar\n4- Atualizar\n5- Listar");
             Console.WriteLine("Escolha uma opção:");
             option = Console.ReadLine();
 
